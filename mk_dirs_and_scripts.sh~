@@ -1,0 +1,10 @@
+#!/bin/bash
+
+folders=1
+while [ $folders -le 12]
+do
+	if [[ 1 -eq $folders ]]
+	then
+	files=34
+	name="Bandit"
+	
